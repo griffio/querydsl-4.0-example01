@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 import static com.google.common.truth.Truth.assertThat;
-import static griffio.domain.QKnownQuantity.*;
+import static griffio.domain.QKnownQuantity.knownQuantity;
 
 public class KnownQuantityTest {
 
